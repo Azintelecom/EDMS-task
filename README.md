@@ -42,6 +42,7 @@ Only admin user has access to workflows.
 #### Workflow states
 Each workflow can have a number of states (finite state machine):
 ![EDMS](./EDMS.png)
+
 Each state can have a name and unique id.
 ### Workflow actions
 Each state can have a number of actions bound to it. For example, sign a document (using the user account), send email or approve. It should be easy to add new actions.
