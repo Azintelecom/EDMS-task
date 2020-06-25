@@ -10,7 +10,8 @@ Fork this repository to your account. Work on these tasks and then make a pull r
 ## Backend
 
 ### Auth
-1. Login - 
+1. Login - the user can login (email and password) and receive JWT token that will be set on the browser.
+2. Logout - the user\`s token is erased from the browser.
 
 ## Databases
 
