@@ -37,7 +37,7 @@ Only admin user has access to workflows.
 
 #### Workflow states
 Each workflow can have a number of states (finite state machine):
-![EDMS](./EMDS.png)
+![EDMS](./EDMS.png)
 
 ## Databases
 
