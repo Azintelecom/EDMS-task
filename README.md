@@ -55,7 +55,7 @@ When a state is finished (all the actions are executed), it moves to the next st
 #### Launch workflow
 The workflows are launched when new documents of specific type are added to the system. For example, a new document for sick leave is added, with assigned document type SickLeave. It will then trigger a workflow to sign it for one person, then it will move to be signed by another person and finally approved by a third person.
 
-There could any number of states with actions that required user\`s feedback.
+There could any number of states with actions that require user\`s feedback.
 
 ### Additional features
 You can add additional features to the system if you have time left. You can take a look at Mayan EDMS or Vasion. This could include but not limited to:
